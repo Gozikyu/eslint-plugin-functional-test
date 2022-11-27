@@ -1,0 +1,10 @@
+{
+  "parserOptions": {
+    "project": "tsconfig.json"
+  },
+  "env": {
+    "es6": true
+  },
+  "plugins": ["functional"],
+  "extends": ["plugin:functional/lite"]
+}
